@@ -1,4 +1,4 @@
-# Veritas-Forge _Mission-Grade Computational Provenance & Reproducibility System_
+# Veritas-Forge — _Mission-Grade Computational Provenance & Reproducibility System_
 
 ## 🧰 Technologies Used in Practice
 
