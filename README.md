@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" width="40" height="40"/>
 </p>
 
-> Design Discussion ongoing (done) --- final requirements ongoing
+> Design Discussion ongoing (done) --- final requirements ongoing --- start soon
 
 ![node](https://img.shields.io/badge/node-%3E%3D18-green)
 ![license](https://img.shields.io/badge/license-MIT-blue)
