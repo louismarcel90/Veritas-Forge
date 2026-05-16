@@ -19,7 +19,7 @@
   </table>
 </p>
 
-> Design Discussion ongoing (done) --- final requirements ongoing --- start soon
+> Every computation, artifact, and scientific result is reproducible, traceable, and backed by verifiable evidence.on
 
 ![node](https://img.shields.io/badge/node-%3E%3D18-green)
 ![license](https://img.shields.io/badge/license-MIT-blue)
