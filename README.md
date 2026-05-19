@@ -19,7 +19,7 @@
   </table>
 </p>
 
-> Every computation, artifact, and scientific result is reproducible, traceable, and backed by verifiable evidence
+> Every computation, artifact, and scientific result is reproducible, traceable, and backed by verifiable evidence.
 
 ![node](https://img.shields.io/badge/node-%3E%3D18-green)
 ![license](https://img.shields.io/badge/license-MIT-blue)
